@@ -15,4 +15,4 @@ The integrality of the source code, as preprocessed FORTRAN-90 sources, is found
 
 [`./CONFIG/eNATL60_LIM3/BLD/ppsrc/nemo`](https://github.com/meom-configurations/eNATL60_LIM3/tree/master/CONFIG/eNATL60-BLBT02/BLD/ppsrc/nemo)
 
-
+**DISCLAIMER**: All FORTRAN code provided in this depository is provided under the terms of the [CeCILL](https://github.com/meom-configurations/eNATL60-BLBT02/tree/master/CONFIG/eNATL60_LIM3/LICENSE) license "agreement". 
